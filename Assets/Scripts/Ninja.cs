@@ -7,7 +7,7 @@ public class Ninja : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		animator = GetComponent<animator> ();
+		animator = GetComponent<Animator> ();
 	}
 	
 	// Update is called once per frame
